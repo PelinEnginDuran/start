@@ -6,4 +6,4 @@
  HTML VE CSS kullanıldı.
 
  <h2>Ekran Görüntüsü</h2>
- ![](girisyap.gif)
+![(girisyap.gif)]
